@@ -7,7 +7,7 @@ The Chat App is a Python application that allows you to chat with multiple PDF d
 ## How It Works
 ------------
 
-![MultiPDF Chat App Diagram](assets\LLM-query-flow-diagram.jpg.webp)
+![RAG Diagram](./assets/llm.png)
 
 The application follows these steps to provide responses to your questions:
 
